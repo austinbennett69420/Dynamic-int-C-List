@@ -5,7 +5,7 @@ is critical should not use this library as I like my buffers!
 # How to install
 If your using GCC or mingw on windows i know 
 you can locate the "include" path by going  to 
-C:/llvm-mingw-20231128-ucrt-x86_64(or whatever gcc library you use)/include
+" C:/llvm-mingw-20231128-ucrt-x86_64(or whatever gcc library you use)/include "
 then install the dynamicListIntegers.h file to their (copy paste)
 # Documentation
 i included a example file (example.c) detailing all the functions
