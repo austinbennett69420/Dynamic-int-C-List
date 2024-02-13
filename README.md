@@ -7,6 +7,10 @@ If your using GCC or mingw on windows i know
 you can locate the "include" path by going  to 
 C:/llvm-mingw-20231128-ucrt-x86_64(or whatever gcc library you use)/include
 then install the dynamicListIntegers.h file to their (copy paste)
+# Documentation
+i included a example file (example.c) detailing all the functions
+and their uses, you can read through that, or email me:
+(theaustinbennett@gmail.com) for questions
 # Future
 if this ends up being popular i will make dynamic list librarys for bool, 
 floats, and other types in C aswell!
