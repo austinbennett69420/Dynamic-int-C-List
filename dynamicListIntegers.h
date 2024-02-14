@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#ifndef DynamicListIntegers_H
+#define DynamicintListIntegers_H
 
 
 
@@ -268,3 +269,6 @@ List getCopy(List src, size_t start, size_t stop) {
 		exit(1);
 	}
 }
+
+
+#endif
